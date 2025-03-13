@@ -1,4 +1,4 @@
-# procesamiento_cadenas
+# Procesamiento-De-Cadenas
 
 Estos scripts demuestran varias prácticas fundamentales en Python:
 
