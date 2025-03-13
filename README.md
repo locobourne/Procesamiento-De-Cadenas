@@ -1,6 +1,6 @@
 # Procesamiento-De-Cadenas
 
-Estos scripts demuestran varias prácticas fundamentales en Python:
+### Estos scripts demuestran varias prácticas fundamentales en Python:
 
 + **_Manejo de archivos:_** Se abre, lee y cierra un archivo de texto (entrada.txt).
 + **_Manipulación de cadenas:_** Se procesan palabras separadas por espacios o puntos.
@@ -9,3 +9,6 @@ Estos scripts demuestran varias prácticas fundamentales en Python:
 + **_Uso de contadores:_** Se almacenan y actualizan valores para realizar cálculos.
   
 El código se enfoca en el procesamiento de texto y análisis de caracteres.
+
+## Autor: 
+### Maximo Castillo
