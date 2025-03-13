@@ -8,7 +8,7 @@
 + **_Definición y uso de funciones:_** La función pal_pares_iguales() analiza si una palabra tiene igual cantidad de vocales y consonantes.
 + **_Uso de contadores:_** Se almacenan y actualizan valores para realizar cálculos.
   
-El código se enfoca en el procesamiento de texto y análisis de caracteres.
+### El código se enfoca en el procesamiento de texto y análisis de caracteres.
 
 ## Autor: 
 ### Maximo Castillo
